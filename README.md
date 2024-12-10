@@ -1,10 +1,12 @@
 # Password-Strength-Checker
 This repository contains an Assembly Language project built using TASM (Turbo Assembler). The program evaluates the strength of a user's password and provides feedback to encourage stronger and more secure passwords.
 
-# Features:
-1-Password Validation: Checks for the presence of:
+# Features: 
+Checks for the presence of:
+1-Password Validation: 
 
 2-Uppercase letters
+
 3-Lowercase letters
 4-Digits
 5-Special characters
