@@ -3,6 +3,7 @@ This repository contains an Assembly Language project built using TASM (Turbo As
 
 # Features:
 1-Password Validation: Checks for the presence of:
+
 2-Uppercase letters
 3-Lowercase letters
 4-Digits
